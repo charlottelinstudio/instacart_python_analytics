@@ -4,7 +4,7 @@
 
 # Instacart Basket Analysis
 
-## Project Overview**
+## Project Overview
 
 This project was completed as part of the Data Immersion program. The aim was to support Instacart, an online grocery store, in better understanding their customer segments and purchasing behaviors. By conducting an exploratory analysis of Instacart’s open-source datasets, the goal was to derive actionable insights and inform targeted marketing strategies.
 
